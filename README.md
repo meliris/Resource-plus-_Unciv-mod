@@ -1,1 +1,3 @@
-# Resource-plus-_Unciv-mod
+# Resource-plus
+Unciv mod. add new Resources.
+*not yet available
