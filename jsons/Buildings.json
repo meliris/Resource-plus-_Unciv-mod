@@ -1,9 +1,9 @@
 [
 {
-"name": "",
+"name": "Distillery",
 "maintenance": 1,
 "hurryCostModifier": 25,
 "uniques": ["Provides [1] [Alcohol]"],
-"requiredNearbyImprovedResources": [""]
+"requiredNearbyImprovedResources": ["Wheat","Rice","Citrus"]
 },
 ]
