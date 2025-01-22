@@ -16,5 +16,7 @@
 "resourceType": "Luxury",
 "gold": 2,
 "faith": 1,
+"happiness": 2,
+"culture": 2,
 },
 ]
