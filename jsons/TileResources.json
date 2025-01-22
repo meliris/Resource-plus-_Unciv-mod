@@ -61,7 +61,7 @@
 {
 "name": "Minor metal",
 "resourceType": "Strategic",
-"revealedBy": "Biology",
+"revealedBy": "Computers",
 "terrainsCanBeFoundOn": ["Desert","Coast","Ocean","Tundra","Snow","Marsh","Jungle"],
 "gold": 2,
 "improvedBy": ["Quarry", "Offshore Platform"],
