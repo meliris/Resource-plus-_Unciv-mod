@@ -9,14 +9,15 @@
 },
 
                 "name": "Plantation",
+                "name": "Fishing Boats",
 
 {
-"name": "Oil",
+"name": "",
 "resourceType": "Strategic",
 "revealedBy": "Biology",
 "terrainsCanBeFoundOn": ["Desert","Coast","Tundra","Snow","Marsh","Jungle"],
 production": 1,
-"improvedBy": ["Quarry","Plantation","Oil well", "Offshore Platform"],
+"improvedBy": ["Quarry","Plantation","Oil well","Fishing Boats", "Offshore Platform"],
 "improvementStats": {"production": 3},
 "uniques": ["Deposits in [Coast] tiles always provide [4] resources",
 "Guaranteed with Strategic Balance resource option",
