@@ -13,11 +13,13 @@
 {
 "name": "Corn",
 "resourceType": "Bonus",
-"terrainsCanBeFoundOn": ["Plains"],
+"terrainsCanBeFoundOn": ["Jungle","Plains"],
 "food": 1,
 "improvement": "Farm",
-"improvementStats": {"food": 1},
-"uniques": [
+"improvementStats": {"food": 2},
+"uniques": ["Generated on every [14] tiles <in [Jungle] tiles>",
+"Generated on every [16] tiles <in [Jungle] tiles> <in [Hill] Regions>",
+"Generated on every [20] tiles <in [{Featureless} {Plains}] tiles>",
 "Generated on every [20] tiles <in [{Featureless} {Plains}] tiles> <in [Hill] Regions>"],
 },
 {
@@ -26,10 +28,10 @@
 "terrainsCanBeFoundOn": ["Grassland","Snow"],
 "food": 1,
 "improvement": "Farm",
-"improvementStats": {"food": 1},
+"improvementStats": {"food": 2},
 "uniques": ["Generated on every [22] tiles <in [{Featureless} {Grassland}] tiles> <in [Hill] Regions>",
-"Generated on every [20] tiles <in [{Featureless} {Snow}] tiles> <in [Hill] Regions>"
-],
+"Generated on every [20] tiles <in [{Featureless} {Snow}] tiles>",
+"Generated on every [20] tiles <in [{Featureless} {Snow}] tiles> <in [Hill] Regions>"],
 },
 
 
