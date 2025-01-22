@@ -28,9 +28,8 @@
 "food": 1,
 "improvement": "Farm",
 "improvementStats": {"food": 1},
-"uniques": ["Generated on every [18] tiles <in [{Featureless} {Grassland}] tiles>",
-"Generated on every [22] tiles <in [{Featureless} {Grassland}] tiles> <in [Hill] Regions>",
-"Generated on every [20] tiles <in [{Featureless} {Plains}] tiles> <in [Hill] Regions>"],
+"uniques": ["Generated on every [13] tiles <in [Hill] tiles> <in tiles without [Plains]> <in tiles without [Snow]>",
+],
 },
 
 
