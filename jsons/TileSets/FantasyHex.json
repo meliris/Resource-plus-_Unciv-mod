@@ -1,1 +1,12 @@
-t
+[
+{
+"name": "Rice",
+"resourceType": "Bonus",
+"terrainsCanBeFoundOn": ["Grassland"],
+"food": 1,
+"improvement": "",
+"improvementStats": {"food": 2},
+"uniques": ["Generated on every [18] tiles <in [{Featureless} {Grassland}] tiles>",
+"Generated on every [22] tiles <in [{Featureless} {Grassland}] tiles> <in [Hill] Regions>"],
+},
+]
