@@ -3,11 +3,11 @@
 "name": "Rice",
 "resourceType": "Bonus",
 "terrainsCanBeFoundOn": ["Grassland"],
-"food": -1,
+"food": -2,
 "improvement": "Farm",
-"improvementStats": {"food": 3},
-"uniques": ["Generated on every [22] tiles <in [{Featureless} {Grassland}] tiles>",
-"Generated on every [22] tiles <in [{Featureless} {Grassland}] tiles> <in tiles without [Hill]>"],
+"improvementStats": {"food": 5},
+"uniques": ["Generated on every [33] tiles <in [{Featureless} {Grassland}] tiles>",
+"Generated on every [33] tiles <in [{Featureless} {Grassland}] tiles> <in tiles without [Hill]>"],
 },
 
 
