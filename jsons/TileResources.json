@@ -6,8 +6,8 @@
 "food": -2,
 "improvement": "Farm",
 "improvementStats": {"food": 5},
-"uniques": ["Generated on every [18] tiles <in [{Featureless} {Grassland}] tiles>",
-"Generated on every [20] tiles <in [{Featureless} {Plains}] tiles>"],
+"uniques": ["Generated on every [26] tiles <in [{Featureless} {Grassland}] tiles>",
+"Generated on every [22] tiles <in [{Featureless} {Plains}] tiles>"],
 },
 {
 "name": "Corn",
@@ -23,12 +23,12 @@
 {
 "name": "Potato",
 "resourceType": "Bonus",
-"terrainsCanBeFoundOn": ["Grassland","Snow"],
+"terrainsCanBeFoundOn": ["Grassland","Hill","Snow"],
 "food": 1,
 "improvement": "Farm",
 "improvementStats": {"food": 2},
-"uniques": ["Generated on every [22] tiles <in [{Featureless} {Grassland}] tiles> <in [Hill] Regions>",
-"Generated on every [20] tiles <in [{Featureless} {Snow}] tiles>",
+"uniques": ["Generated on every [10] tiles <in [{Featureless} {Grassland}] tiles> <in [Hill] Regions>",
+"Generated on every [20] tiles <in [Hill] tiles> <in tiles without [Plains]> <in tiles without [Desert]> <in [Hill] Regions>",
 "Generated on every [20] tiles <in [{Featureless} {Snow}] tiles> <in [Hill] Regions>"],
 },
 
