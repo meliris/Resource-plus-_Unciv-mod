@@ -34,3 +34,19 @@ production": 1,
 "majorDepositAmount": {"sparse": 5, "default": 7, "abundant": 9},
 "minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 3}
 },
+
+
+{
+"name": "Volcano",
+"type": "TerrainFeature",
+"gold": 3,
+"movementCost": 10,
+"unbuildable": true,
+"defenceBonus": -0.5,
+"occursOn": ["Mountain"],
+"uniques": ["Rare feature",
+"[-2] to Fertility for Map Generation",
+"Every [9] tiles with this terrain will receive a major deposit of a strategic resource."],
+"civilopediaText": [{"text":"Only Polders can be built here", "link":"Improvement/Polder"}]
+},
+
