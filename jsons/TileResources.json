@@ -9,4 +9,11 @@
 "uniques": ["Generated on every [18] tiles <in [{Featureless} {Grassland}] tiles>",
 "Generated on every [22] tiles <in [{Featureless} {Grassland}] tiles> <in [Hill] Regions>"]
 },
+
+
+{
+"name": "Alcohol",
+"resourceType": "Luxury",
+"gold": 2
+},
 ]
