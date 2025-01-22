@@ -50,7 +50,7 @@ production": 1,
 "Units ending their turn on this terrain take [20] damage",
 "Always Fertility [-2] for Map Generation",
 "Considered [Undesirable] when determining start locations"],
-"civilopediaText": [{"text":"Only Polders can be built here", "link":"Improvement/Polder"}]
+"civilopediaText": [{"text": "Mountain", "link":"Terrain/Mountain"}]
 },
 
                 "uniques": ["Rough terrain",
@@ -59,3 +59,4 @@ production": 1,
                         "Units ending their turn on this terrain take [50] damage",
                         "Always Fertility [-2] for Map Generation",
                         "Considered [Undesirable] when determining start locations"]
+            {"text": "Lakes", "link":"Terrain/Lakes"},
