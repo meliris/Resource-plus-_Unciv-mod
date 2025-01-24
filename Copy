@@ -8,8 +8,7 @@
 "requiredResource": "",
 },
 
-                "name": "Plantation",
-                "name": "Fishing Boats",
+
 
 {
 "name": "",
@@ -53,18 +52,22 @@ production": 1,
 "civilopediaText": [{"text": "Mountain", "link":"Terrain/Mountain"}]
 },
 
-                "uniques": ["Rough terrain",
-                        "Has an elevation of [2] for visibility calculations",
-                        "Occurs in chains at high elevations",
-                        "Units ending their turn on this terrain take [50] damage",
-                        "Always Fertility [-2] for Map Generation",
-                        "Considered [Undesirable] when determining start locations"]
-            {"text": "Lakes", "link":"Terrain/Lakes"},
 
-TileSets/FantasyHex/Tiles/ーーー
-  rotate: false
-  xy: 908, 1832
-  size: 32, 36
-  orig: 32, 36
-  offset: 0, 0
-  index: -1
+
+        "Grassland+Forest+": ["Grassland","ForestG",""],
+        "Grassland+Jungle+": ["Grassland","JungleG",""],
+        "Grassland+Hill+Forest+": ["Grassland+Hill","ForestGH",""],
+        "Grassland+Hill+Jungle+": ["Grassland+Hill","JungleG",""],
+        "Plains+Forest+": ["Plains","ForestP",""],
+        "Plains+Jungle+": ["Plains","JungleP",""],
+        "Plains+Hill+Forest+": ["Plains+Hill","ForestPH",""],
+        "Plains+Hill+Jungle+": ["Plains+Hill","JungleP",""],
+        "Tundra+Forest+": ["Tundra","ForestT",""],
+        "Tundra+Hill+Forest+": ["Tundra+Hill","ForestTH",""],
+        "Snow+": ["Snow",""],
+        "Snow+Hill+": ["Snow+Hill",""],
+        "Desert+": ["Desert",""],
+        "Desert+Flood plains+": ["Desert","Flood plains",""],
+        "Desert+Hill+": ["Desert+Hill",""],
+        "Ocean+": ["Ocean",""],
+  
