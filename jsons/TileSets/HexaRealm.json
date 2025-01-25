@@ -27,4 +27,7 @@
         "Desert+": ["Desert",""],
         "Desert+Flood plains+": ["Desert","Flood plains",""],
         "Desert+Hill+Potato": ["Desert+Hill","Potato"],
+        "Coast+": ["Coast",""],
+        "Coast++Offshore Platform": ["Coast","","Offshore Platform"],
         "Ocean+": ["Ocean",""],
+        "Ocean++Offshore Platform": ["Ocean","","Offshore Platform"],
