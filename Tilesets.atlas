@@ -3,32 +3,32 @@ size: 288, 56
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/FantasyHex/Tiles/Corn
+TileSets/HexaRealm/Tiles/Corn
   rotate: false
   xy: 0, 0
-  size: 32, 28
-  orig: 32, 28
+  size: 64, 56
+  orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Minor metal
+TileSets/HexaRealm/Tiles/Minor metal
   rotate: false
   xy: 64, 0
-  size: 32, 28
-  orig: 32, 28
+  size: 64, 56
+  orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Potato
+TileSets/HexaRealm/Tiles/Potato
   rotate: false
   xy: 128, 0
-  size: 32, 28
-  orig: 32, 28
+  size: 64, 56
+  orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Rice
+TileSets/HexaRealm/Tiles/Rice
   rotate: false
   xy: 192, 0
-  size: 32, 28
-  orig: 32, 28
+  size: 64, 56
+  orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Natural gas
