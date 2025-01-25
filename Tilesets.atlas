@@ -1,4 +1,3 @@
-
 Tilesets.png
 size: 288, 56
 format: RGBA8888
@@ -11,7 +10,6 @@ TileSets/FantasyHex/Tiles/Corn
   orig: 32, 28
   offset: 0, 0
   index: -1
-
 TileSets/FantasyHex/Tiles/Minor metal
   rotate: false
   xy: 64, 0
@@ -19,7 +17,6 @@ TileSets/FantasyHex/Tiles/Minor metal
   orig: 32, 28
   offset: 0, 0
   index: -1
-
 TileSets/FantasyHex/Tiles/Potato
   rotate: false
   xy: 128, 0
@@ -27,7 +24,6 @@ TileSets/FantasyHex/Tiles/Potato
   orig: 32, 28
   offset: 0, 0
   index: -1
-
 TileSets/FantasyHex/Tiles/Rice
   rotate: false
   xy: 192, 0
@@ -35,7 +31,6 @@ TileSets/FantasyHex/Tiles/Rice
   orig: 32, 28
   offset: 0, 0
   index: -1
-
 TileSets/FantasyHex/Tiles/Natural gas
   rotate: false
   xy: 256, 0
