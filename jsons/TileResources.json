@@ -12,7 +12,7 @@
 {
 "name": "Corn",
 "resourceType": "Bonus",
-"terrainsCanBeFoundOn": ["Jungle","Plains"],
+"terrainsCanBeFoundOn":["Jungle","Grassland","Plains"],
 "food": 1,
 "improvement": "Farm",
 "improvementStats": {"food": 2},
