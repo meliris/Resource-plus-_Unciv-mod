@@ -52,3 +52,5 @@
         "Ocean+Minor metal": ["Ocean","Minor metal"],
         "Ocean+Natural gas+Offshore Platform": ["Ocean","Natural gas","Offshore Platform"],
         "Ocean+Minor metal+Offshore Platform": ["Ocean","Minor metal","Offshore Platform"],
+    }
+}
