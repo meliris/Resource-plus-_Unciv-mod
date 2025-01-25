@@ -72,5 +72,7 @@ production": 1,
         "Desert+": ["Desert",""],
         "Desert+Flood plains+": ["Desert","Flood plains",""],
         "Desert+Hill+": ["Desert+Hill",""],
+        "Coast+": ["Coast",""],
+        "Coast++Offshore Platform": ["Coast","","Offshore Platform"],
         "Ocean+": ["Ocean",""],
   
