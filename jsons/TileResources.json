@@ -260,5 +260,10 @@
 "happiness": 5,
 "culture": 5,
 },
+{
+"name": "Airship",
+"resourceType": "Luxury",
+"production": 5,
+},
 ]
 
