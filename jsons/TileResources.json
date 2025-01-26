@@ -94,7 +94,7 @@
 "resourceType": "Bonus",
 "terrainsCanBeFoundOn": ["Atoll"],
 "food": 3,
-"improvement": "Research base",
+"improvement": "Research point",
 "improvementStats": {"gold": 3},
 "uniques": [
 "Generated on every [20] tiles <in [Atoll] tiles>"],
