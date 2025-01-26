@@ -171,14 +171,16 @@
 },
 {
 "name": "Electricity",
-"terrainsCanBeFoundOn": ["Mountain"]
+"terrainsCanBeFoundOn": ["Mountain"],
+"improvedBy": ["Railroad"],
+"improvementStats": {"production": 5},
 "resourceType": "Strategic",
 "revealedBy": "Electricity",
 "production": 5,
 },
 
 
-
+  
 {
 "name": "Alcohol",
 "resourceType": "Luxury",
