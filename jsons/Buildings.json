@@ -65,4 +65,22 @@
 "hurryCostModifier": 25,
 "requiredTech": "Calendar"
 },
+{
+"name": "Steam locomotive station",
+"maintenance": 5,
+"uniques": ["Provides [1] [Steam locomotive]","Consumes [2] [Iron]","Consumes [3] [Coal]"],
+"production": 5,
+"cost": 500,
+"hurryCostModifier": 25,
+"requiredTech": "Steam power"
+},
+{
+"name": "Vehicle station",
+"maintenance": 3,
+"uniques": ["Provides [1] [Vehicle]","Consumes [1] [Iron]","Consumes [1] [Coal]"],
+"production": 3,
+"cost": 300,
+"hurryCostModifier": 25,
+"requiredTech": "Steam power"
+},
 ]
