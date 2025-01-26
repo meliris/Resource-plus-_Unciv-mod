@@ -208,8 +208,17 @@
 "production": 3,
 "cost": 500,
 "hurryCostModifier": 25,
-"requiredTech": ""
+"requiredTech": "Electronics"
 },
- Passenger plane
+{
+"name": "Passenger plane Factory",
+"maintenance": 3,
+"uniques": ["Provides [1] [Passenger plane]","Consumes [1] [Semiconductor]"],
+"production": 3,
+"cost": 500,
+"hurryCostModifier": 25,
+"requiredTech": "Rader"
+},
+ 
 ]
 
