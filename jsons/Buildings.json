@@ -10,9 +10,17 @@
 {
 "name": "Beer distillery",
 "maintenance": 1,
-"cost": 40,
-"hurryCostModifier": 40,
+"cost": 100,
+"hurryCostModifier": 100,
 "uniques": ["Provides [1] [Beer]"],
 "requiredNearbyImprovedResources": ["Wheat"]
+},
+{
+"name": "Sake Brewery",
+"maintenance": 1,
+"cost": 100,
+"hurryCostModifier": 100,
+"uniques": ["Provides [1] [Sake]"],
+"requiredNearbyImprovedResources": ["Rice"]
 },
 ]
