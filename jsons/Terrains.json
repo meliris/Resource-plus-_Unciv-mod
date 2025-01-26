@@ -23,7 +23,6 @@
 "sience": 3,
 "production": 2,
 "unbuildable": true,
-"impassable": false,
 "defenceBonus": 1,
 "occursOn": ["Ocean"],
 "uniques": ["Rare feature"]
