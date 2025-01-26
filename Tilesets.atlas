@@ -38,6 +38,7 @@ TileSets/FantasyHex/Tiles/Natural gas
   orig: 32, 28
   offset: 0, 0
   index: -1
+
 Tilesets2.png
 size: 2048, 2048
 format: RGBA8888
@@ -50,7 +51,6 @@ TileSets/HexaRealm/Tiles/Volcano.png
   orig: 64, 64
   offset: 0, 0
   index: -1
-
 TileSets/HexaRealm/Tiles/Seels.png
   rotate: false
   xy: 64, 0
@@ -58,7 +58,6 @@ TileSets/HexaRealm/Tiles/Seels.png
   orig: 64, 56
   offset: 9, 7
   index: -1
-
 TileSets/HexaRealm/Tiles/Shrimp.png
   rotate: false
   xy: 111, 0
@@ -66,7 +65,6 @@ TileSets/HexaRealm/Tiles/Shrimp.png
   orig: 64, 56
   offset: 6, 14
   index: -1
-
 TileSets/HexaRealm/Tiles/Polar bear.png
   rotate: false
   xy: 155, 0
@@ -74,7 +72,6 @@ TileSets/HexaRealm/Tiles/Polar bear.png
   orig: 64, 56
   offset: 7, 5
   index: -1
-
 TileSets/HexaRealm/Tiles/Eel.png
   rotate: false
   xy: 197, 0
@@ -82,7 +79,6 @@ TileSets/HexaRealm/Tiles/Eel.png
   orig: 64, 56
   offset: 15, 12
   index: -1
-
 TileSets/HexaRealm/Tiles/Penguin.png
   rotate: false
   xy: 155, 31
@@ -90,7 +86,6 @@ TileSets/HexaRealm/Tiles/Penguin.png
   orig: 64, 56
   offset: 9, 3
   index: -1
-
 TileSets/HexaRealm/Tiles/Sea urchin.png
   rotate: false
   xy: 111, 37
@@ -98,7 +93,6 @@ TileSets/HexaRealm/Tiles/Sea urchin.png
   orig: 64, 56
   offset: 13, 2
   index: -1
-
 TileSets/HexaRealm/Tiles/Hydrothermal vent.png
   rotate: false
   xy: 64, 40
@@ -106,7 +100,6 @@ TileSets/HexaRealm/Tiles/Hydrothermal vent.png
   orig: 64, 56
   offset: 15, 9
   index: -1
-
 TileSets/HexaRealm/Tiles/Coral.png
   rotate: false
   xy: 0, 63
