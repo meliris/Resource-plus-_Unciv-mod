@@ -113,30 +113,30 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/HexaRealm/Tiles/Minor metalO
+TileSets/HexaRealm/Tiles/Minor metalO.png
   rotate: false
   xy: 0, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Research base
+TileSets/HexaRealm/Tiles/Research base.png
   rotate: false
-  xy: 45, 0
+  xy: 64, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Research baseO
+TileSets/HexaRealm/Tiles/Research baseO.png
   rotate: false
-  xy: 0, 41
+  xy: 128, 0
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Natural gasO
+TileSets/FantasyHex/Tiles/Natural gasO.png
   rotate: false
-  xy: 85, 0
+  xy: 192, 0
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
