@@ -39,11 +39,21 @@
 "name": "Book Factory",
 "maintenance": 1,
 "uniques": ["Provides [1] [Books]"],
-"requiredNearbyImprovedResources": ["Sheep","Horses","Cattle","Penguin"],
+"requiredNearbyImprovedResources": ["Sheep"],
 "happiness": 1,
 "cost": 100,
 "hurryCostModifier": 25,
 "requiredTech": "Writing"
 },
-]Bookbinding Church
-Bible Theology
+{
+"name": "Bookbinding Church",
+"maintenance": 1,
+"uniques": ["Provides [1] [Bible]"],
+"requiredResource": "Books",
+"happiness": 1,
+"cost": 100,
+"hurryCostModifier": 25,
+"requiredTech": "Theology"
+},
+]
+ 
