@@ -49,7 +49,7 @@
 "terrainsCanBeFoundOn": ["Snow","Ocean"],
 "food": 1,
 "gold": 1,
-"improvement": "Camp","Fishing Boats",
+"improvement": ["Camp","Fishing Boats"],
 "improvementStats": {"food": 2},
 "uniques": [
 "Generated on every [20] tiles <in [{Fresh Water} {Snow}] tiles> <in [Hill] Regions>",
