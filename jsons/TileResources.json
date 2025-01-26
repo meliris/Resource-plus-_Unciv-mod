@@ -285,5 +285,22 @@
 "happiness": 5,
 "culture": 5,
 },
+{
+"name": "PC",
+"resourceType": "Luxury",
+"gold": 5,
+"production": 5,
+"culture": 5,
+},
+{
+"name": "Automobile",
+"resourceType": "Luxury",
+"production": 10,
+"gold": 10,
+},
+{
+"name": "Train",
+"resourceType": "Luxury",
+"production": 20,
+},
 ]
- 
