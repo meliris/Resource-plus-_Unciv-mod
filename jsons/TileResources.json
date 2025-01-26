@@ -303,4 +303,26 @@
 "resourceType": "Luxury",
 "production": 20,
 },
+{
+"name": "Record",
+"resourceType": "Luxury",
+"happiness": 5,
+"culture": 20,
+},
+{
+"name": "Smart phone",
+"resourceType": "Luxury",
+"production": 10,
+"gold": 10,
+"happiness": 5,
+"culture": 5,
+},
+{
+"name": "Internet",
+"resourceType": "Luxury",
+"production": 50,
+"gold": 100,
+"happiness": 30,
+"culture": 100,
+},
 ]
