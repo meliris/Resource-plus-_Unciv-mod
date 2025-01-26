@@ -68,9 +68,49 @@
 "Generated on every [10] tiles <in [{Fresh Water} {Snow}] tiles> <in [Hill] Regions>",
 "Generated on every [20] tiles <in [Ice] tiles>"],
 }, 
+{
+"name": "Shrimp",
+"resourceType": "Bonus",
+"terrainsCanBeFoundOn": ["Ocean","Coast"],
+"food": 1,
+"improvedBy": ["Fishing Boats"],
+"improvementStats": {"food": 2},
+"uniques": [
+"Generated on every [20] tiles <in [<in [Coast] tiles>",
+"Generated on every [20] tiles <in [{Featureless} {Ocean}] tiles>"],
+},
+{
+"name": "Eel",
+"resourceType": "Bonus",
+"terrainsCanBeFoundOn": ["Ocean"],
+"food": 1,
+"improvedBy": ["Fishing Boats"],
+"improvementStats": {"food": 2},
+"uniques": [
+"Generated on every [20] tiles <in [{Featureless} {Ocean}] tiles>"],
+},
 
-Shrimp,Sea urchin, Eel,Fish eggs
+
+Shrimp,, Eel,Coral
+{
+"name": "Sea urchin",
+"resourceType": "Luxury",
+"terrainsCanBeFoundOn": ["Coast","Ocean"],
+"food": 1,
+"gold": 2,
+"improvement": "Fishing Boats",
+"improvementStats": {"food": 3},
+"uniques": ["Generated with weight [10] <in [Tundra] Regions>",
+"Generated with weight [20] <in [Snow] Regions>",
+"Generated with weight [10] <in [Forest] Regions>",
+"Generated with weight [10] <in [Hill] Regions>",
+"Generated with weight [10] <in [Plains] Regions>",
+"Generated with weight [10] <in [Grassland] Regions>",
+"Generated with weight [20] <in [Hybrid] Regions>",
+"Generated near City States with weight [10]"]
+},
   
+
 {
 "name": "Natural gas",
 "resourceType": "Strategic",
