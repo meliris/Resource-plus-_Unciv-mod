@@ -100,7 +100,7 @@
 "Generated on every [20] tiles <in [Atoll] tiles>"],
 }, 
 
-Shrimp,, Eel,Coral
+
 {
 "name": "Sea urchin",
 "resourceType": "Luxury",
