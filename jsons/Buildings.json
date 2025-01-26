@@ -92,6 +92,20 @@
 "hurryCostModifier": 25,
 "requiredTech": "Chemistry"
 },
+
+        {
+                "name": "Hydro plant",
+                "requiredResource": "Aluminum",
+                "replaces": "Hydro Plant",
+                "hurryCostModifier": 0,
+                "maintenance": 3,
+                "uniques": ["Provides [1] [Electricity]","Must be on [River]","[+1 Production] from [River] tiles [in this city]"],
+                "requiredTech": "Electricity"
+        },
+
+
+
+
 {
 "name": "Electric appliances Factory",
 "maintenance": 3,
@@ -119,6 +133,7 @@
 "hurryCostModifier": 25,
 "requiredTech": "Electricity"
 },
+
 ] 
 "Provides [1] [Electricity]",
 "replaces": "",
