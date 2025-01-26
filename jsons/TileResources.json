@@ -35,13 +35,13 @@
 "name": "Polar bear",
 "resourceType": "Bonus",
 "terrainsCanBeFoundOn": ["Snow"],
-"food": -1,
+"food": 1,
 "gold": 2,
 "improvement": "Camp",
-"improvementStats": {"food": 5},
+"improvementStats": {"food": 4},
 "uniques": [
-"Generated on every [40] tiles <in [Hill] tiles> <in tiles without [Snow]> <in [Hill] Regions>",
-"Generated on every [40] tiles <in [{Featureless} {Snow}] tiles> <in [Hill] Regions>"],
+"Generated on every [10] tiles <in [Hill] tiles> <in tiles without [Snow]> <in [Hill] Regions>",
+"Generated on every [10] tiles <in [{Featureless} {Snow}] tiles> <in [Hill] Regions>"],
 },
 {
 "name": "Seels",
@@ -53,7 +53,7 @@
 "improvementStats": {"food": 2},
 "uniques": [
 "Generated on every [20] tiles <in [{Fresh Water} {Snow}] tiles> <in [Hill] Regions>",
-"Generated on every [30] tiles <in [{Featureless} {Ocean}] tiles>"],
+"Generated on every [10] tiles <in [{Featureless} {Ocean}] tiles>"],
 },
 {
 "name": "Penguin",
