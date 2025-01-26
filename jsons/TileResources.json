@@ -273,5 +273,17 @@
 "happiness": 3,
 "culture": 3,
 },
+{
+"name": "Semiconductor",
+"resourceType": "Luxury",
+"production": 5,
+"gold": 10,
+},
+{
+"name": "Passenger plane",
+"resourceType": "Luxury",
+"happiness": 5,
+"culture": 5,
+},
 ]
-
+ 
