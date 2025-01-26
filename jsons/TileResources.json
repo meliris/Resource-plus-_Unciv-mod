@@ -231,4 +231,30 @@
 "resourceType": "Luxury",
 "culture": 5,
 },
+{
+"name": "Electricity",
+"resourceType": "Luxury",
+"revealedBy": "Electricity",
+"production": 5,
+},
+{
+"name": "Electric appliances",
+"resourceType": "Luxury",
+"food": 10,
+"happiness": 10,
+},
+{
+"name": "Phone",
+"resourceType": "Luxury",
+"gold": 5,
+"production": 5,
+"happiness": 5,
+},
+{
+"name": "TV",
+"resourceType": "Luxury",
+"happiness": 5,
+"culture": 5,
+},
 ]
+
