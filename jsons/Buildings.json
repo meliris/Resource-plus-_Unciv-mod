@@ -35,5 +35,14 @@
 "hurryCostModifier": 25,
 "requiredTech": "Animal Husbandry"
 },
-
+{
+"name": "Bookbinding Workshop",
+"maintenance": 1,
+"uniques": ["Provides [1] [Books]"],
+"requiredNearbyImprovedResources": ["Sheep","Horses","Cattle","Penguin"],
+"happiness": 1,
+"cost": 100,
+"hurryCostModifier": 25,
+"requiredTech": "Writing"
+},
 ]
