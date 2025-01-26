@@ -183,7 +183,15 @@
 "hurryCostModifier": 25,
 "requiredTech": "Electricity"
 },
-
+{
+"name": "Airship Factory",
+"maintenance": 3,
+"uniques": ["Provides [1] [Airship]"],
+"production": 3,
+"cost": 300,
+"hurryCostModifier": 25,
+"requiredTech": "Scientific Theory"
+},
 ] 
 "Provides [1] [Electricity]",
 "replaces": "",
