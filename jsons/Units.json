@@ -1,0 +1,12 @@
+[
+{
+"name": "",
+"unitType": "Civilian",
+"movement": 2,
+"cost": 250,
+"requiredTech": "",
+"uniques": [
+"Can instantly construct a [] improvement <by consuming this unit>",
+"Uncapturable"]
+},
+]
