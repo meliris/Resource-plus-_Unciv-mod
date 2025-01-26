@@ -225,7 +225,7 @@
 {
 "name": "PC Factory",
 "maintenance": 3,
-"uniques": ["Provides [1] [PC]","Consumes [2] [Semiconductor]","Consumes [1] [Minor metal]","Consumes [1] [Electoricity]"],
+"uniques": ["Provides [1] [PC]","Consumes [2] [Semiconductor]","Consumes [1] [Minor metal]","Consumes [1] [Electricity]"],
 "production": 3,
 "cost": 500,
 "hurryCostModifier": 25,
@@ -234,7 +234,7 @@
 {
 "name": "Automobile Factory",
 "maintenance": 3,
-"uniques": ["Provides [1] [Automobile]","Consumes [1] [Oil]","Consumes [1] [Minor metal]","Consumes [1] [Electoricity]"],
+"uniques": ["Provides [1] [Automobile]","Consumes [1] [Oil]","Consumes [1] [Minor metal]","Consumes [1] [Electricity]"],
 "production": 3,
 "cost": 500,
 "hurryCostModifier": 25,
@@ -243,7 +243,7 @@
 {
 "name": "Train Factory",
 "maintenance": 3,
-"uniques": ["Provides [1] [Train]","Consumes [1] [Minor metal]","Consumes [1] [Electoricity]","Consumes [2] [Iron]"],
+"uniques": ["Provides [1] [Train]","Consumes [1] [Minor metal]","Consumes [1] [Electricity]","Consumes [2] [Iron]"],
 "production": 3,
 "cost": 500,
 "hurryCostModifier": 25,
@@ -261,7 +261,7 @@
 {
 "name": "Smart phone Factory",
 "maintenance": 3,
-"uniques": ["Provides [1] [Smart phone]","Consumes [2] [Semiconductor]","Consumes [3] [Minor metal]","Consumes [3] [Electoricity]"],
+"uniques": ["Provides [1] [Smart phone]","Consumes [2] [Semiconductor]","Consumes [3] [Minor metal]","Consumes [3] [Electricity]"],
 "production": 3,
 "cost": 500,
 "hurryCostModifier": 25,
@@ -270,7 +270,7 @@
 {
 "name": "Internet",
 "maintenance": 10,
-"uniques": ["Provides [1] [Internet]","Consumes [3] [PC]","Consumes [3] [Smart phone]","Consumes [20] [Electoricity]"],
+"uniques": ["Provides [1] [Internet]","Consumes [3] [PC]","Consumes [3] [Smart phone]","Consumes [20] [Electricity]"],
 "cost": 500,
 "hurryCostModifier": 25,
 "requiredTech": "Globalization"
