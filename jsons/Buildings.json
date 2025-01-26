@@ -217,7 +217,7 @@
 "production": 3,
 "cost": 500,
 "hurryCostModifier": 25,
-"requiredTech": "Rader"
+"requiredTech": "Radar"
 },
  
 ]
