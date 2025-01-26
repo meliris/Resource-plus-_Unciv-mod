@@ -201,5 +201,15 @@
 "hurryCostModifier": 25,
 "requiredTech": "Refrigeration"
 },
-] 
+{
+"name": "Semiconductor Factory",
+"maintenance": 3,
+"uniques": ["Provides [1] [Semiconductor]"],
+"production": 3,
+"cost": 500,
+"hurryCostModifier": 25,
+"requiredTech": ""
+},
+ Passenger plane
+]
 
