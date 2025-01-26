@@ -14,9 +14,18 @@
 "Occurs in chains at high elevations",
 "Units ending their turn on this terrain take [40] damage",
 "Always Fertility [-2] for Map Generation",
-"Considered [Undesirable] when determining start locations"],
-"civilopediaText": [{"text": "Mountain", "link":"Terrain/Mountain"}]
+"Considered [Undesirable] when determining start locations"]
 },
 
-  
+{
+"name": "Hydrothermal vent",
+"type": "TerrainFeature",
+"sience": 3,
+"production": 2,
+"unbuildable": true,
+"impassable": false,
+"defenceBonus": 1,
+"occursOn": ["Ocean"],
+"uniques": ["Rare feature"]
+},
 ]
