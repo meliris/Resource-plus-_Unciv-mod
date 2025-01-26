@@ -226,4 +226,9 @@
 "gold": 3,
 "production": 5,
 },
+{
+"name": "Camera",
+"resourceType": "Luxury",
+"culture": 5,
+},
 ]
