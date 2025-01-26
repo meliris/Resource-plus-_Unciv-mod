@@ -89,7 +89,16 @@
 "uniques": [
 "Generated on every [20] tiles <in [{Featureless} {Ocean}] tiles>"],
 },
-
+{
+"name": "Coral",
+"resourceType": "Bonus",
+"terrainsCanBeFoundOn": ["Atoll"],
+"food": 3,
+"improvement": "Camp",
+"improvementStats": {"gold": 3},
+"uniques": [
+"Generated on every [20] tiles <in [Atoll] tiles>"],
+}, 
 
 Shrimp,, Eel,Coral
 {
