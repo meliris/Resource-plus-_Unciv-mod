@@ -93,7 +93,7 @@ TileSets/HexaRealm/Tiles/Sea urchin
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Seels.
+TileSets/HexaRealm/Tiles/Seels
   rotate: false
   xy: 64, 112
   size: 64, 56
