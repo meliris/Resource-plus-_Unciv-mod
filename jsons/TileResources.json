@@ -180,4 +180,16 @@
 "happiness": 2,
 "culture": 2,
 },
+{
+"name": "Beer",
+"resourceType": "Luxury",
+"gold": 4,
+"happiness": 4,
+},
+{
+"name": "Sake",
+"resourceType": "Luxury",
+"faith": 4,
+"culture": 4,
+},
 ]
