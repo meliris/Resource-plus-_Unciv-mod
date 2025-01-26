@@ -192,6 +192,14 @@
 "hurryCostModifier": 25,
 "requiredTech": "Scientific Theory"
 },
+{
+"name": "Cola Factory",
+"maintenance": 3,
+"uniques": ["Provides [1] [Cola]","Consumes [1] [Sugar]"],
+"production": 3,
+"cost": 300,
+"hurryCostModifier": 25,
+"requiredTech": "Refrigeration"
+},
 ] 
-"Provides [1] [Electricity]",
-"replaces": "",
+
