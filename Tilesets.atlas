@@ -134,7 +134,7 @@ TileSets/HexaRealm/Tiles/Research baseO
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Natural gasO
+TileSets/FantasyHex/Tiles/Natural gasO
   rotate: false
   xy: 85, 0
   size: 32, 28
