@@ -171,9 +171,6 @@
 },
 {
 "name": "Electricity",
-"terrainsCanBeFoundOn": ["Mountain"],
-"improvedBy": ["Railroad"],
-"improvementStats": {"production": 5},
 "resourceType": "Strategic",
 "revealedBy": "Electricity",
 "production": 5,
