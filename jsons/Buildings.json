@@ -141,7 +141,17 @@
                 "maintenance": 3,
                 "requiredResource": "Uranium",
                 "requiredTech": "Nuclear Fission",
-                "uniques": ["Provides [3] [Electricity]","Only available <in cities without a [Solar Plant]>"]
+                "uniques": ["Provides [5] [Electricity]","Only available <in cities without a [Solar Plant]>"]
+        },
+        {
+                "name": "Nuclear Fusion plant",
+                "production": 5,
+                "cost": 1500,
+                "percentStatBonus": {"production": 30},
+                "requiredBuilding": "Factory",
+                "maintenance": 10
+                "requiredTech": "Nuclear Fusion",
+                "uniques": ["Provides [10] [Electricity]","Only available <in cities without a [Solar Plant]>"]
         },
 
 
