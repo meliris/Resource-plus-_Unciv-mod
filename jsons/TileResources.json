@@ -214,4 +214,16 @@
 "gold": 5,
 "happiness": 10,
 },
+{
+"name": "Steam locomotive",
+"resourceType": "Luxury",
+"gold": 5,
+"production": 10,
+},
+{
+"name": "Vehicle",
+"resourceType": "Luxury",
+"gold": 3,
+"production": 5,
+},
 ]
