@@ -72,7 +72,7 @@
 "production": 5,
 "cost": 500,
 "hurryCostModifier": 25,
-"requiredTech": "Steam power"
+"requiredTech": "Steam Power"
 },
 {
 "name": "Vehicle station",
@@ -81,6 +81,15 @@
 "production": 3,
 "cost": 300,
 "hurryCostModifier": 25,
-"requiredTech": "Steam power"
+"requiredTech": "Steam Power"
+},
+{
+"name": "Camera Factory",
+"maintenance": 1,
+"uniques": ["Provides [1] [Camera]"],
+"production": 3,
+"cost": 200,
+"hurryCostModifier": 25,
+"requiredTech": "Chemistry"
 },
 ]
