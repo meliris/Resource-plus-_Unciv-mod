@@ -61,7 +61,7 @@
 "resourceType": "Bonus",
 "terrainsCanBeFoundOn": ["Snow","Ice"],
 "food": 3,
-"improvement": "Camp",
+"improvedBy": ["Camp","Research base"],
 "improvementStats": {"gold": 3},
 "uniques": [
 "Generated on every [20] tiles <in [{Snow} {Fresh Water}] tiles> <in tiles without [Hill]>",
@@ -94,7 +94,7 @@
 "resourceType": "Bonus",
 "terrainsCanBeFoundOn": ["Atoll"],
 "food": 3,
-"improvement": "Camp",
+"improvement": "Research base",
 "improvementStats": {"gold": 3},
 "uniques": [
 "Generated on every [20] tiles <in [Atoll] tiles>"],
