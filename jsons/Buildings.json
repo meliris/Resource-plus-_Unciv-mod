@@ -92,4 +92,31 @@
 "hurryCostModifier": 25,
 "requiredTech": "Chemistry"
 },
-]
+{
+"name": "Electric appliances Factory",
+"maintenance": 3,
+"uniques": ["Provides [1] [Vehicle]","Consumes [2] [Electricity]","Consumes [1] [Minor metal]"],
+"production": 3,
+"cost": 500,
+"hurryCostModifier": 25,
+"requiredTech": "Electricity"
+},
+{
+"name": "Phone Factory",
+"maintenance": 3,
+"uniques": ["Provides [1] [Vehicle]","Consumes [1] [Electricity]","Consumes [2] [Minor metal]"],
+"production": 3,
+"cost": 500,
+"hurryCostModifier": 25,
+"requiredTech": "Electricity"
+},
+{
+"name": "TV Factory",
+"maintenance": 3,
+"uniques": ["Provides [1] [Vehicle]","Consumes [1] [Electricity]","Consumes [1] [Minor metal]"],
+"production": 3,
+"cost": 500,
+"hurryCostModifier": 25,
+"requiredTech": "Electricity"
+},
+] 
