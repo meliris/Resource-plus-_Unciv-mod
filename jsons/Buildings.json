@@ -219,6 +219,32 @@
 "hurryCostModifier": 25,
 "requiredTech": "Radar"
 },
- 
-]PC Automobile Train
+{
+"name": "PC Factory",
+"maintenance": 3,
+"uniques": ["Provides [1] [PC]","Consumes [1] [Semiconductor]","Consumes [1] [Minor metal]","Consumes [1] [Electoricity]"],
+"production": 3,
+"cost": 500,
+"hurryCostModifier": 25,
+"requiredTech": "Computers"
+},
+{
+"name": "Automobile Factory",
+"maintenance": 3,
+"uniques": ["Provides [1] [Automobile]","Consumes [1] [Oil]","Consumes [1] [Minor metal]","Consumes [1] [Electoricity]"],
+"production": 3,
+"cost": 500,
+"hurryCostModifier": 25,
+"requiredTech": "Computers"
+},
+{
+"name": "Train Factory",
+"maintenance": 3,
+"uniques": ["Provides [1] [Train]",,"Consumes [1] [Minor metal]","Consumes [1] [Electoricity]","Consumes [1] [Iron]"],
+"production": 3,
+"cost": 500,
+"hurryCostModifier": 25,
+"requiredTech": "Computers"
+},
+]  
 
