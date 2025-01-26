@@ -31,8 +31,9 @@
 "uniques": ["Provides [1] [Soap]"],
 "requiredNearbyImprovedResources": ["Sheep","Horses","Cattle","Penguin"],
 "happiness": 1,
+"cost": 100,
 "hurryCostModifier": 25,
-"requiredTech": ""
+"requiredTech": "Animal Husbandry"
 },
 
 ]
