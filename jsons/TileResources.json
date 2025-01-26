@@ -32,7 +32,7 @@
 "Generated on every [20] tiles <in [{Featureless} {Snow}] tiles> <in [Hill] Regions>"],
 },
 {
-"name": "Penguin",
+"name": "Polar bear",
 "resourceType": "Bonus",
 "terrainsCanBeFoundOn": ["Snow"],
 "food": 1,
@@ -56,7 +56,7 @@
 "Generated on every [20] tiles <in [{Featureless} {Snow}] tiles> <in [Hill] Regions>"],
 },
 {
-"name": "Polar bear",
+"name": "Penguin",
 "resourceType": "Bonus",
 "terrainsCanBeFoundOn": ["Snow"],
 "food": 1,
