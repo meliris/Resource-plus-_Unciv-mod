@@ -169,6 +169,13 @@
 "majorDepositAmount": {"sparse": 4, "default": 6, "abundant": 10},
 "minorDepositAmount": {"sparse": 1, "default": 3, "abundant": 3}
 },
+{
+"name": "Electricity",
+"terrainsCanBeFoundOn": ["Mountain"]
+"resourceType": "Strategic",
+"revealedBy": "Electricity",
+"production": 5,
+},
 
 
 
@@ -231,12 +238,7 @@
 "resourceType": "Luxury",
 "culture": 5,
 },
-{
-"name": "Electricity",
-"resourceType": "Luxury",
-"revealedBy": "Electricity",
-"production": 5,
-},
+
 {
 "name": "Electric appliances",
 "resourceType": "Luxury",
