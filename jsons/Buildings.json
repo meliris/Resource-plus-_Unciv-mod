@@ -7,4 +7,12 @@
 "uniques": ["Provides [1] [Alcohol]"],
 "requiredNearbyImprovedResources": ["Wheat","Rice","Corn","Potato","Citrus"]
 },
+{
+"name": "Beer distillery",
+"maintenance": 1,
+"cost": 40,
+"hurryCostModifier": 40,
+"uniques": ["Provides [1] [Beer]"],
+"requiredNearbyImprovedResources": ["Wheat"]
+},
 ]
