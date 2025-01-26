@@ -6,6 +6,7 @@
 "cost": 250,
 "requiredTech": "Scientific Theory",
 "uniques": [
-"Can instantly construct a [Research base] improvement <by consuming this unit>"]
+"Can instantly construct a [Research base] improvement <by consuming this unit>",
+"Can instantly construct a [Research point] improvement <by consuming this unit>"]
 },
 ]
