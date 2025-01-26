@@ -1,0 +1,10 @@
+{
+    "useColorAsBaseTerrain": "false",
+    "ruleVariants": {
+        "Coast+Minor metal": ["Coast","Minor metalO"],
+        "Coast+Natural gas": ["Coast","Natural gasO"],
+        "Ocean+Minor metal": ["Ocean","Minor metalO"],
+        "Ocean+Natural gas": ["Ocean","Natural gasO"],
+        "Coast+Atoll+Coral+Research base": ["Coast","Atoll","Coral","Research baseO"],
+        "Ocean+Hydrothermal vent+Research base": ["Ocean","Hydrothermal vent","Research baseO"]
+}}
