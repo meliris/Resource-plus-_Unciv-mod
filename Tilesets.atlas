@@ -44,56 +44,56 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/HexaRealm/Tiles/Volcano.png
+TileSets/HexaRealm/Tiles/Volcano
   rotate: false
   xy: 0, 0
   size: 64, 63
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Seels.png
+TileSets/HexaRealm/Tiles/Seels
   rotate: false
   xy: 64, 0
   size: 47, 40
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Shrimp.png
+TileSets/HexaRealm/Tiles/Shrimp
   rotate: false
   xy: 111, 0
   size: 44, 37
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Polar bear.png
+TileSets/HexaRealm/Tiles/Polar bear
   rotate: false
   xy: 155, 0
   size: 42, 31
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Eel.png
+TileSets/HexaRealm/Tiles/Eel
   rotate: false
   xy: 197, 0
   size: 40, 40
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Penguin.png
+TileSets/HexaRealm/Tiles/Penguin
   rotate: false
   xy: 155, 31
   size: 39, 32
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Sea urchin.png
+TileSets/HexaRealm/Tiles/Sea urchin
   rotate: false
   xy: 111, 37
   size: 32, 47
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Hydrothermal vent.png
+TileSets/HexaRealm/Tiles/Hydrothermal vent
   rotate: false
   xy: 64, 40
   size: 29, 38
