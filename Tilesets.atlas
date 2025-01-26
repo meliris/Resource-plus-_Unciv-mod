@@ -56,54 +56,54 @@ TileSets/HexaRealm/Tiles/Seels.png
   xy: 64, 0
   size: 47, 40
   orig: 64, 56
-  offset: 9, 7
+  offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Shrimp.png
   rotate: false
   xy: 111, 0
   size: 44, 37
   orig: 64, 56
-  offset: 6, 14
+  offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Polar bear.png
   rotate: false
   xy: 155, 0
   size: 42, 31
   orig: 64, 56
-  offset: 7, 5
+  offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Eel.png
   rotate: false
   xy: 197, 0
   size: 40, 40
   orig: 64, 56
-  offset: 15, 12
+  offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Penguin.png
   rotate: false
   xy: 155, 31
   size: 39, 32
   orig: 64, 56
-  offset: 9, 3
+  offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Sea urchin.png
   rotate: false
   xy: 111, 37
   size: 32, 47
   orig: 64, 56
-  offset: 13, 2
+  offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Hydrothermal vent.png
   rotate: false
   xy: 64, 40
   size: 29, 38
   orig: 64, 56
-  offset: 15, 9
+  offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Coral.png
   rotate: false
   xy: 0, 63
   size: 24, 20
   orig: 64, 56
-  offset: 22, 17
+  offset: 0, 0
   index: -1
