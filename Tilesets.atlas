@@ -107,3 +107,37 @@ TileSets/HexaRealm/Tiles/Shrimp
   orig: 64, 56
   offset: 0, 0
   index: -1
+
+Tilesets3.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/HexaRealm/Tiles/Minor metalO
+  rotate: false
+  xy: 0, 0
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Research base
+  rotate: false
+  xy: 45, 0
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Research baseO
+  rotate: false
+  xy: 0, 41
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Natural gasO
+  rotate: false
+  xy: 85, 0
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1p
