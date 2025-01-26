@@ -102,7 +102,47 @@
                 "uniques": ["Provides [1] [Electricity]","Must be on [River]","[+1 Production] from [River] tiles [in this city]"],
                 "requiredTech": "Electricity"
         },
-
+        {
+                "name": "Coal plant",
+                "requiredResource": "Coal",
+                "production": 5,
+                "percentStatBonus": {"production": 5},
+                "hurryCostModifier": 0,
+                "maintenance": 3,
+                "uniques": ["Provides [1] [Electricity]"],
+                "requiredTech": "Electricity"
+        },
+        {
+                "name": "Oil plant",
+                "requiredResource": "Oil",
+                "production": 5,
+                "percentStatBonus": {"production": 10},
+                "hurryCostModifier": 0,
+                "maintenance": 3,
+                "uniques": ["Provides [1] [Electricity]"],
+                "requiredTech": "Electricity"
+        },
+        {
+                "name": "Solar plant",
+                "replaces": "Solar Plant",
+                "production": 5,
+                "percentStatBonus": {"production": 15},
+                "requiredBuilding": "Factory",
+                "maintenance": 3,
+                "requiredTech": "Ecology",
+                "uniques": ["Provides [3] [Electricity]","Must be next to [Desert]", "Only available <in cities without a [Nuclear Plant]>"]
+        },
+        {
+                "name": "Nuclear plant",
+                "replaces": "Nuclear Plant",
+                "production": 5,
+                "percentStatBonus": {"production": 15},
+                "requiredBuilding": "Factory",
+                "maintenance": 3,
+                "requiredResource": "Uranium",
+                "requiredTech": "Nuclear Fission",
+                "uniques": ["Provides [3] [Electricity]","Only available <in cities without a [Solar Plant]>"]
+        },
 
 
 
