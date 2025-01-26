@@ -222,7 +222,7 @@
 {
 "name": "PC Factory",
 "maintenance": 3,
-"uniques": ["Provides [1] [PC]","Consumes [1] [Semiconductor]","Consumes [1] [Minor metal]","Consumes [1] [Electoricity]"],
+"uniques": ["Provides [1] [PC]","Consumes [2] [Semiconductor]","Consumes [1] [Minor metal]","Consumes [1] [Electoricity]"],
 "production": 3,
 "cost": 500,
 "hurryCostModifier": 25,
@@ -240,11 +240,36 @@
 {
 "name": "Train Factory",
 "maintenance": 3,
-"uniques": ["Provides [1] [Train]",,"Consumes [1] [Minor metal]","Consumes [1] [Electoricity]","Consumes [1] [Iron]"],
+"uniques": ["Provides [1] [Train]",,"Consumes [1] [Minor metal]","Consumes [1] [Electoricity]","Consumes [2] [Iron]"],
 "production": 3,
 "cost": 500,
 "hurryCostModifier": 25,
 "requiredTech": "Computers"
 },
-] Plastics
-Record Smart phone Internet
+{
+"name": "Record Factory",
+"maintenance": 3,
+"uniques": ["Provides [1] [Record]"],
+"production": 3,
+"cost": 300,
+"hurryCostModifier": 25,
+"requiredTech": "Plastics"
+},
+{
+"name": "Smart phone Factory",
+"maintenance": 3,
+"uniques": ["Provides [1] [Smart phone]","Consumes [2] [Semiconductor]","Consumes [3] [Minor metal]","Consumes [3] [Electoricity]"],
+"production": 3,
+"cost": 500,
+"hurryCostModifier": 25,
+"requiredTech": "Globalization"
+},
+{
+"name": "Internet",
+"maintenance": 10,
+"uniques": ["Provides [1] [Internet]","Consumes [3] [PC]","Consumes [3] [Smart phone]","Consumes [20] [Electoricity]"],
+"cost": 500,
+"hurryCostModifier": 25,
+"requiredTech": "Globalization"
+},
+] 
