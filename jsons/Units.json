@@ -4,7 +4,7 @@
 "unitType": "Civilian",
 "movement": 2,
 "cost": 250,
-"requiredTech": "Sientific Theory",
+"requiredTech": "Scientific Theory",
 "uniques": [
 "Can instantly construct a [Research base] improvement <by consuming this unit>"]
 },
