@@ -3,7 +3,7 @@
 "name": "Rice",
 "resourceType": "Bonus",
 "terrainsCanBeFoundOn": ["Grassland","Plains"],
-"food": -2,
+"food": -1,
 "improvement": "Farm",
 "improvementStats": {"food": 5},
 "uniques": ["Generated on every [26] tiles <in [{Featureless} {Grassland}] tiles>",
@@ -23,7 +23,7 @@
 {
 "name": "Potato",
 "resourceType": "Bonus",
-"terrainsCanBeFoundOn": ["Grassland","Hill","Snow"],
+"terrainsCanBeFoundOn": ["Grassland","Plains","Hill","Snow"],
 "food": 1,
 "improvement": "Farm",
 "improvementStats": {"food": 2},
@@ -47,7 +47,7 @@
 {
 "name": "Seels",
 "resourceType": "Bonus",
-"terrainsCanBeFoundOn": ["Ocean","Ice"],
+"terrainsCanBeFoundOn": ["Ocean","Coast","Ice"],
 "food": 1,
 "gold": 1,
 "improvedBy": ["Camp","Fishing Boats"],
@@ -59,10 +59,10 @@
 {
 "name": "Penguin",
 "resourceType": "Bonus",
-"terrainsCanBeFoundOn": ["Snow","Ice"],
-"food": 2,
+"terrainsCanBeFoundOn": ["Snow","Grassland","Coast","Ocean","Ice"],
+"food": 3,
 "improvement": "Camp",
-"improvementStats": {"gold": 4},
+"improvementStats": {"gold": 3},
 "uniques": [
 "Generated on every [20] tiles <in [{Snow} {Fresh Water}] tiles> <in tiles without [Hill]>",
 "Generated on every [10] tiles <in [{Fresh Water} {Snow}] tiles> <in [Hill] Regions>",
