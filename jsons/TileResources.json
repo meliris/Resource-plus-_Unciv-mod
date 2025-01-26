@@ -47,7 +47,7 @@
 {
 "name": "Seels",
 "resourceType": "Bonus",
-"terrainsCanBeFoundOn": ["Ocean","Coast","Ice"],
+"terrainsCanBeFoundOn": ["Ocean","Ice"],
 "food": 1,
 "gold": 1,
 "improvedBy": ["Camp","Fishing Boats"],
@@ -59,7 +59,7 @@
 {
 "name": "Penguin",
 "resourceType": "Bonus",
-"terrainsCanBeFoundOn": ["Snow","Grassland","Coast","Ocean","Ice"],
+"terrainsCanBeFoundOn": ["Snow","Ice"],
 "food": 3,
 "improvement": "Camp",
 "improvementStats": {"gold": 3},
