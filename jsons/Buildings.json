@@ -8,8 +8,9 @@
 "requiredNearbyImprovedResources": ["Wheat","Rice","Corn","Potato","Citrus"]
 },
 {
-"name": "Beer distillery",
+"name": "Beer Brewery",
 "maintenance": 1,
+"gold": 1,
 "cost": 100,
 "hurryCostModifier": 100,
 "uniques": ["Provides [1] [Beer]"],
