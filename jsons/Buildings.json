@@ -97,6 +97,7 @@
                 "name": "Hydro plant",
                 "requiredResource": "Aluminum",
                 "replaces": "Hydro Plant",
+                "uniqueTo": "All",
                 "hurryCostModifier": 0,
                 "maintenance": 3,
                 "uniques": ["Provides [1] [Electricity]","Must be on [River]","[+1 Production] from [River] tiles [in this city]"],
@@ -125,6 +126,7 @@
         {
                 "name": "Solar plant",
                 "replaces": "Solar Plant",
+                "uniqueTo": "All",
                 "production": 5,
                 "percentStatBonus": {"production": 15},
                 "requiredBuilding": "Factory",
@@ -135,6 +137,7 @@
         {
                 "name": "Nuclear plant",
                 "replaces": "Nuclear Plant",
+                "uniqueTo": "All",
                 "production": 5,
                 "percentStatBonus": {"production": 15},
                 "requiredBuilding": "Factory",
