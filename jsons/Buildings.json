@@ -240,7 +240,7 @@
 {
 "name": "Train Factory",
 "maintenance": 3,
-"uniques": ["Provides [1] [Train]",,"Consumes [1] [Minor metal]","Consumes [1] [Electoricity]","Consumes [2] [Iron]"],
+"uniques": ["Provides [1] [Train]","Consumes [1] [Minor metal]","Consumes [1] [Electoricity]","Consumes [2] [Iron]"],
 "production": 3,
 "cost": 500,
 "hurryCostModifier": 25,
