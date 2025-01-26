@@ -1,0 +1,10 @@
+[
+{
+"name": "Research base",
+"terrainsCanBeBuiltOn": ["Volcano","Hydrothermal vent"],
+"sience": 1,
+"turnsToBuild": 7,
+"techRequired": "",
+"uniques": ["[+1 Sience] <after discovering []>", "Pillaging this improvement yields approximately [+20 Gold]"],
+},
+]
