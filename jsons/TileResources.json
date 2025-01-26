@@ -192,4 +192,10 @@
 "faith": 4,
 "culture": 4,
 },
+{
+"name": "Soap",
+"resourceType": "Luxury",
+"food": 2,
+"happiness": 2,
+},
 ]
