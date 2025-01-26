@@ -198,4 +198,14 @@
 "food": 2,
 "happiness": 2,
 },
-]
+{
+"name": "Books",
+"resourceType": "Luxury",
+"culture": 5,
+},
+{
+"name": "Bible",
+"resourceType": "Luxury",
+"faith": 8,
+},
+] 
