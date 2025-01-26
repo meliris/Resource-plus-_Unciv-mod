@@ -1,7 +1,14 @@
 [
 {
 "name": "Research base",
-"terrainsCanBeBuiltOn": ["Volcano","Hydrothermal vent"],
+"terrainsCanBeBuiltOn": ["Volcano"],
+"science": 2,
+"techRequired": "Scientific Theory",
+"uniques": ["[+2 Science] <after discovering [Radio]>", "Pillaging this improvement yields approximately [+20 Gold]"],
+},
+{
+"name": "Research point",
+"terrainsCanBeBuiltOn": ["Hydrothermal vent"],
 "science": 2,
 "techRequired": "Scientific Theory",
 "uniques": ["[+2 Science] <after discovering [Radio]>", "Pillaging this improvement yields approximately [+20 Gold]"],
