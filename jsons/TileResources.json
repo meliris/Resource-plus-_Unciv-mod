@@ -53,7 +53,7 @@
 "improvementStats": {"food": 2},
 "uniques": [
 "Generated on every [20] tiles <in [{Fresh Water} {Snow}] tiles> <in [Hill] Regions>",
-"Generated on every [10] tiles <in [{Featureless} {Ocean}] tiles>"],
+"Generated on every [100] tiles <in [{Featureless} {Ocean}] tiles>"],
 },
 {
 "name": "Penguin",
