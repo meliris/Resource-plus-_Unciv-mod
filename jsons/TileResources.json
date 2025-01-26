@@ -265,5 +265,13 @@
 "resourceType": "Luxury",
 "production": 5,
 },
+{
+"name": "Cola",
+"resourceType": "Luxury",
+"food": 3,
+"gold": 3,
+"happiness": 3,
+"culture": 3,
+},
 ]
 
