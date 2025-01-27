@@ -322,4 +322,10 @@
 "happiness": 30,
 "culture": 100,
 },
+{
+"name": "Sushi",
+"resourceType": "Luxury",
+"food": 5,
+"culture": 1,
+},
 ]
