@@ -275,5 +275,16 @@
 "hurryCostModifier": 25,
 "requiredTech": "Globalization"
 },
-寿司屋
-] Sushi Fish Shrimp Eel Sea urchin
+
+        
+{
+"name": "Sushi bar",
+"maintenance": 1,
+"uniques": ["Provides [1] [Sushi]","Consumes [2] [Semiconductor]","Consumes [3] [Minor metal]","Consumes [3] [Electricity]"],
+"food": 3,
+"cost": 100,
+"hurryCostModifier": 25,
+"requiredNearbyImprovedResources": ["Fish","Shrimp","Eel","Sea urchin"]
+},
+
+] 
